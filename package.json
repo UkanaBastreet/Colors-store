@@ -1,0 +1,13 @@
+{
+  "name": "its.agency",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel serve src/index.html --open",
+    "build": "parcel watch src/index.html"
+  },
+  "devDependencies": {
+    "sass": "^1.54.5"
+  }
+}
